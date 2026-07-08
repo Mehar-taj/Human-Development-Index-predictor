@@ -146,25 +146,6 @@ Human-Development-Index-Predictor
 > *(Insert Home Page Screenshot)*
 
 ---
-
-## 🖥️ Application Screens
-
-### 🏠 Home Page
-
-![Home Page](<img width="1366" height="689" alt="home" src="https://github.com/user-attachments/assets/cb6cd96d-6af3-4786-a25d-321563d61390" />
-)
-
-### 📋 Prediction Page
-
-![Prediction Page](<img width="1366" height="681" alt="index" src="https://github.com/user-attachments/assets/55845f81-b52f-4739-af91-ec08bc5bc2c1" />
-)
-
-### 📊 Result Page
-
-![Result Page](<img width="1366" height="681" alt="result" src="https://github.com/user-attachments/assets/68ea4ca0-5314-4572-bf02-20a9fcc6076a" />
-)
----
-
 # 🚀 Installation
 
 ## Clone the Repository
