@@ -143,24 +143,23 @@ Human-Development-Index-Predictor
 
 ---
 
-# 🖥️ Application Screens
-
-## 🏠 Home Page
-
 > *(Insert Home Page Screenshot)*
 
 ---
 
-## 📋 Prediction Page
+## 🖥️ Application Screens
 
-> *(Insert Prediction Page Screenshot)*
+### 🏠 Home Page
 
----
+![Home Page](images/home.png)
 
-## 📊 Prediction Result
+### 📋 Prediction Page
 
-> *(Insert Result Screenshot)*
+![Prediction Page](images/predict.png)
 
+### 📊 Result Page
+
+![Result Page](images/result.png)
 ---
 
 # 🚀 Installation
